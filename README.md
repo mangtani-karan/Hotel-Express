@@ -10,7 +10,7 @@
 			checkin_date DATE NOT null,
      	checkout_date DATE NOT null,
      	room_no INTEGER NOT null
-		);```
+		);
 - `npm install`
 - `npm start`
 
