@@ -4,7 +4,8 @@
     https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
  - Create database 'Hotel'
  - Create Table
-    ```CREATE TABLE bookings(
+    ```
+    	CREATE TABLE bookings(
     	booking_id SERIAL PRIMARY KEY,
    		guest VARCHAR(256),
 			checkin_date DATE NOT null,
